@@ -6,5 +6,6 @@ package com.jl.util;
 public class Mytest2 {
     public void test3(){
         System.out.print(1);
+        System.out.print(2);
     }
 }
